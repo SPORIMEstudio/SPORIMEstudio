@@ -39,17 +39,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPORIMEstudio&theme=radical" alt="streak"/>
 </p>
 
----
-
-### 📫 Contact Me
-
-<p align="center">
-  📧 Email: nexusbussinessmail@gmail.com<br/>
-  🌐 Portfolio: [yourportfolio.com](#) <br/>
-  🕹️ itch.io: [Your Apps](#)
-</p>
-
----
-
 > 💡 *Feel free to check out my repositories and drop a ⭐ if you find something useful or interesting!*
 
