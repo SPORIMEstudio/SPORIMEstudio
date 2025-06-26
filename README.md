@@ -1,22 +1,55 @@
+<!-- GitHub Profile README -->
 
-# SPORIMEstudio
+<h1 align="center">Hi 👋, I'm SPORIMEstudio</h1>
+<p align="center">
+  🎮 I'm a passionate <strong>Game Developer</strong> and <strong>App Developer</strong><br/>
+  who loves turning creative ideas into interactive digital experiences.
+</p>
 
-I'm a passionate Game Developer and App Developer who loves turning creative ideas into interactive digital experiences. I build:
+---
 
-🎮 2D & 3D Games using engines like Unity
-📱 Android Apps with Java, XML, and OpenGL ES
-💡 Custom tools, shaders, and UI systems for game development
+### 🧠 About Me
+
+- 🔭 I’m currently working on a **Secret ptoject**
+- 🛠️ I build games with **Unity**, and apps with **Android Studio (Java/XML)**  
+- 🌱 Learning more about **GLSL shaders**, **ImGui-style UI**, and **AI in games**  
+- 🧩 I love solving problems and designing custom tools for developers  
+
+---
+
+### 🛠️ Tech Stack
+
+| Area | Tools & Technologies |
+|------|----------------------|
+| 🎮 Game Dev | Unity, ItsMagic Engine, C# |
+| 📱 App Dev | Java, Android Studio, Firebase |
+| 🖼️ Graphics | OpenGL ES, GLSL|
+| 🧰 Tools | Git, GitHub, VS Code, Blender |
+| 🌐 Web | HTML, CSS, JavaScript |
+
+---
 
 
 
-## 🛠️ Tech I Use 
+### 📈 GitHub Stats
 
-**Languages:** Java, C#, Python, GLSL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SPORIMEstudio&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPORIMEstudio&theme=radical" alt="streak"/>
+</p>
 
-**Game Engines:** Unity, its magic  engine 
+---
 
-**Mobile:** Android Studio, Firebase
+### 📫 Contact Me
 
-**Graphics:** OpenGL ES
+<p align="center">
+  📧 Email: nexusbussinessmail@gmail.com<br/>
+  🌐 Portfolio: [yourportfolio.com](#) <br/>
+  🕹️ itch.io: [Your Apps](#)
+</p>
 
-**Tools:** Git, GitHub, Blender (for 3D assets)
+---
+
+> 💡 *Feel free to check out my repositories and drop a ⭐ if you find something useful or interesting!*
+
